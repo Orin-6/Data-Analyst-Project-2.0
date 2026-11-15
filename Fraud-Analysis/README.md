@@ -10,7 +10,7 @@ An end-to-end data analysis and visualization project that identifies credit car
 
 ### Dashboard Preview
 
-![Credit Card Fraud Dashboard](Fraud-Analysis/Screenshot 2026-10-24 000613.png)
+![Credit Card Fraud Dashboard](Fraud-Analysis/Screenshot%202026-10-24%20000613.png)
 
 ### Project Overview
 
@@ -82,8 +82,8 @@ Data-Analyst-Project-2.0/
 ├── fraud_analysis.sql
 ├── fraud_analysis.ipynb
 ├── dashboard_1_fixed.twb
-└── screenshots/
-    └── dashboard.png
+└── Fraud-Analysis/
+    └── Screenshot 2026-10-24 000613.png
 ```
 
 ### How to Explore the Project
@@ -91,6 +91,7 @@ Data-Analyst-Project-2.0/
 1. Open `fraud_analysis.sql` to review the SQL analysis.
 2. Open `fraud_analysis.ipynb` to view the notebook.
 3. Open `dashboard_1_fixed.twb` in Tableau Desktop and reconnect the data source if prompted.
+4. See the `Fraud-Analysis` folder for the dashboard screenshot.
 
 ### Key Learning Outcomes
 
